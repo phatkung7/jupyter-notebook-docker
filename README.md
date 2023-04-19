@@ -17,4 +17,4 @@ How to Install Package
 <li>Run : pip install package_name</li>
 </ol>
 
-Ref : [link](https://jupyter-server.readthedocs.io/en/latest/operators/public-server.html)
+Ref : [Running a public Jupyter Server](https://jupyter-server.readthedocs.io/en/latest/operators/public-server.html)
