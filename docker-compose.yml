@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+    minimal-notebook:
+        ports:
+            - '9999:8888'
+        volumes:
+            - '${PWD}:/home/jovyan/work'
+        image: jupyter/minimal-notebook
