@@ -2,7 +2,7 @@
 Use Jupyter Notebook On docker
 <ol>
 <li>Clone This Repo</li>
-<li>Run : docker compose up -d</li>
+<li>Run : docker compose up -d (Location in docker-compose.yml)</li>
 <li>Run : docker ps and Select CONTAINER_ID</li>
 <li>Run : dokcer exec -it CONTAINER_ID bash</li>
 <li>Run :jupyter server list</li>
